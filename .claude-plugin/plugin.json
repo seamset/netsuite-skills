@@ -1,0 +1,10 @@
+{
+  "name": "netsuite-skills",
+  "version": "0.1.0",
+  "description": "NetSuite 360 view and process description skills, read-only through Oracle's NetSuite MCP connector",
+  "author": {
+    "name": "SeamSet"
+  },
+  "homepage": "https://github.com/seamset/netsuite-skills",
+  "license": "MIT"
+}

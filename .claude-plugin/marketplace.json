@@ -1,0 +1,14 @@
+{
+  "name": "netsuite-skills",
+  "description": "Skills for NetSuite work, by SeamSet",
+  "owner": {
+    "name": "SeamSet"
+  },
+  "plugins": [
+    {
+      "name": "netsuite-skills",
+      "source": "./",
+      "description": "NetSuite 360 view and process description skills, read-only through Oracle's NetSuite MCP connector"
+    }
+  ]
+}
